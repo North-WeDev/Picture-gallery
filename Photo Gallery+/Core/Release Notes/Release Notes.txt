@@ -1,0 +1,19 @@
+Picture Gallery+ 0.8 – Release notes
+
+
+ADDITIONS AND CHANGES
+- UI improvement - a top and static navigation bar was added which creates consistency and improves usability
+- A logo has been added to the top left corner and the name of the site has been moved to the left
+- The footer contains social media icons
+- Added a version number to the bottom right of the footer 
+- Made clickable items more consitennt with :active
+
+FIXES
+
+
+KNOWN BUGS
+- On the contacts page, if the user clicks on the <textarea> and later clicks outside of the element, the page would scroll
+
+PLANS FOR NEXT RELEASE(could change)
+- Implement Gallery and photo selection feature using JavaScript
+- Add CSS media queries 
